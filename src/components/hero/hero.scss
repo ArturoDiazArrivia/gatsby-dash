@@ -1,0 +1,8 @@
+@import '../../styles/globals/variables';
+
+.hero{
+    background-color: blue;
+    h1{
+        color: $gray-900;
+    }
+}
